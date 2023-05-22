@@ -7,4 +7,6 @@
   background-color:purple;
   color: white;
   font-size: 20px;
+	border-left-width:5px;
+	border-left-color:green;
 }
